@@ -1,5 +1,10 @@
+
 import { VRButton } from 'js/VRButton.js';
+
+
 export let isVRMode = false;
+
+
 window.onload = function init() 
 {
 	const canvas = document.getElementById( "gl-canvas" );
