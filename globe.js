@@ -1,5 +1,5 @@
-//
-import { VRButton } from 'js/VRButton.js';
+
+import { VRButton } from 'https://cdn.skypack.dev/pin/three@v0.134.0-dfARp6tVCbGvQehLfkdx/mode=imports,min/unoptimized/examples/jsm/webxr/VRButton.js'
 
 
 export let isVRMode = false;
